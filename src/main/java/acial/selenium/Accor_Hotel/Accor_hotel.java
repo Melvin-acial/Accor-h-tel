@@ -23,7 +23,7 @@ public class Accor_hotel {
 	public void setUp() throws Exception {
 
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Formation\\chrome driver\\chromdedriver.exe");
+				"C:\\Formation\\chrome driver\\chromedriver.exe");
 
 		driver = new ChromeDriver();
 
