@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Non régression" parallel="false" preserve-order="true" thread-count="1" >
+<test name="Suite de tests">
+<classes>
+<class name="acial.selenium.Accor_Hotel.Accor_hotel" />
+</classes>
+</test>
+</suite>
